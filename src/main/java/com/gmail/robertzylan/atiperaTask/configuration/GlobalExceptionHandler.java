@@ -1,6 +1,6 @@
 package com.gmail.robertzylan.atiperaTask.configuration;
 
-import com.gmail.robertzylan.atiperaTask.dto.ErrorResponse;
+import com.gmail.robertzylan.atiperaTask.domain.ErrorResponse;
 import com.gmail.robertzylan.atiperaTask.exceptions.HeaderValueNotAllowed;
 import com.gmail.robertzylan.atiperaTask.exceptions.UserNotFoundException;
 import org.springframework.http.HttpStatus;

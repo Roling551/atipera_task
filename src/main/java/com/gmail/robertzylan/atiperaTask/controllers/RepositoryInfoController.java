@@ -1,6 +1,6 @@
 package com.gmail.robertzylan.atiperaTask.controllers;
 
-import com.gmail.robertzylan.atiperaTask.dto.ReturnRepositoryInfo;
+import com.gmail.robertzylan.atiperaTask.domain.ReturnRepositoryInfo;
 import com.gmail.robertzylan.atiperaTask.services.GithubApiService;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
